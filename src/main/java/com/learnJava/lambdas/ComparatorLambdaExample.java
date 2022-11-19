@@ -1,4 +1,4 @@
-package com.learnjava.lambdas;
+package com.learnJava.lambdas;
 
 import java.util.Comparator;
 

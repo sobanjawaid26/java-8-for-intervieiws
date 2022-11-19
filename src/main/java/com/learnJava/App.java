@@ -1,4 +1,4 @@
-package com.learnjava;
+package com.learnJava;
 
 /**
  * Hello world!
